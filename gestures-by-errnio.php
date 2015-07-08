@@ -3,7 +3,7 @@
 Plugin Name: Gestures by errnio
 Plugin URI: http://errnio.com
 Description: errnio adds gesture engagement actions to your mobile site, enhancing experience, content circulation and time spent on your site.
-Version: 1.0
+Version: 1.1
 Author: Errnio
 Author URI: http://errnio.com
 */
